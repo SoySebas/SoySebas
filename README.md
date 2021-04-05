@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SoySebas
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on open source projects
